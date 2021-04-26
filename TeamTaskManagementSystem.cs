@@ -11,10 +11,9 @@ string Project = "Team Task Management System";
 string password = "Damianojohn";
 string possition = "Team leader";
     
-    Console.WriteLine("Enter Your Position");
-    String Possition = Console.ReadLine();
+    
+    
     Console.Write("Enter Your Password:");
-
     String Passwordinput = Console.ReadLine();
     if (Passwordinput  ==  password)
     {
